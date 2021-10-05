@@ -1,3 +1,5 @@
+*Fork for educational purpose*
+
 Bitcoin Core integration/staging tree
 =====================================
 
