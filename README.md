@@ -1,4 +1,4 @@
-*Fork for educational purpose*
+* I did this Fork for educational purpose*
 
 Bitcoin Core integration/staging tree
 =====================================
