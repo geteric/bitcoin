@@ -1,3 +1,3 @@
 ### I did this Fork for educational purpose
 <br>
-*I dont want to make my own currency (at least not yet, Lol)*
+I dont want to make my own currency (at least not yet, Lol)
